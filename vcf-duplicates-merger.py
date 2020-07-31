@@ -1,6 +1,4 @@
 import vobject
-card = vobject.vCard()
-card.behavior
 
 s = """
 BEGIN:VCARD
