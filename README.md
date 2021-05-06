@@ -6,5 +6,5 @@ Read a contacts file (.vcf). Compare datasets with identical names. Find unique 
 2. Open terminal inside the downloaded folder
 3. `pip install -r requirements.txt`
 4. Change `input_file_path` variable in `line 4` of file `vcf-duplicates-merger.py` to point the target vcf file.
-5. `python cf-duplicates-merger.py`
+5. `python vcf-duplicates-merger.py`
 6. Output file will be created in current directory having filename prefix of `dupmerged_`. 
